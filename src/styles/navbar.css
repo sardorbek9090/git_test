@@ -1,0 +1,13 @@
+.menu{
+    background-color: aqua;
+    padding: 15px 30px;
+}
+nav a{
+    margin-right: 16px;
+    color: rgb(2, 22, 39);
+    font-size: 25px;
+}
+/* nav a.active{
+    color: black;
+    font-weight: bold;
+} */
